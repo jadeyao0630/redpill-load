@@ -1,6 +1,6 @@
 {
   "id": "ds920p-dtb",
-  "url": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/rpext-index.json",
   "info": {
     "name": "Device tree binary",
     "description": "Create your own device tree binary",
@@ -9,11 +9,11 @@
     "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-dtb"
   },
   "releases": {
-    "ds920p_42951": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json",
-    "ds920p_42962": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json",
-    "ds920p_42218": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json",
-    "ds920p_42550": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json",
-    "ds920p_42621": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json",
-    "ds920p_42661": "https://github.com/jadeyao0630/redpill-load/raw/main/ ds920p-dtb/recipes/universal.json"
+    "ds920p_42951": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json",
+    "ds920p_42962": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json",
+    "ds920p_42218": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json",
+    "ds920p_42550": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json",
+    "ds920p_42621": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json",
+    "ds920p_42661": "https://raw.githubusercontent.com/jadeyao0630/redpill-load/main/ds920p-dtb/recipes/universal.json"
   }
 }
